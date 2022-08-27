@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://yuliia-bakalova.github.io/goit-js-hw-09"
+    "url": "git+https://github.com/Yuliia-Bakalova/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://yuliia-bakalova.github.io/goit-js-hw-09"
+    "url": "https://github.com/Yuliia-Bakalova/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
