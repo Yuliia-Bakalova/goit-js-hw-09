@@ -19,7 +19,7 @@ function createPromise(position, delay) {
 
 function onSubmit(evt) {
   evt.preventDefault();
-  const form = event.currentTarget;
+  const form = evt.currentTarget;
   const dataForm = new FormData(form);
   const finalData = {};
   for (const [key, value] of dataForm.entries()) {
