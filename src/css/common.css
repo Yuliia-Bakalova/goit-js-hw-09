@@ -25,11 +25,11 @@ img {
   align-items: center;
   justify-content: space-between;
   min-width: 65px;
-  border: 1px solid rgb(141, 25, 25);
+  border: 2px solid rgb(11, 98, 34);
 }
 .value {
-  color: rgb(141, 25, 25);
-  font-size: 32px;
+  color: rgb(103, 71, 217);
+  font-size: 50px;
 }
 .label {
   font-size: 16px;
